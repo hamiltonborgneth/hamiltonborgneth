@@ -1,5 +1,1 @@
-{
-    "require": {
-      "mgp25/instagram-php": "dev-master"
-    }
-}
+{"name":"dummy app","description":"This app is only a dummy for downloading with the option require.","homepage":"https://php-download.com/","type":"project","require":{"mgp25/instagram-php":"^7.0.1.0"}}
